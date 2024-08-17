@@ -4,3 +4,5 @@ A deep learning project by [Zuyyina Hawani](https://www.linkedin.com/in/zuyyina-
 
 # Goals
   - Create a deep learning model use EfficientNet-B0 architecture for detecting [trypophobia triggers](https://en.wikipedia.org/wiki/Trypophobia) suitable for running on CPU.
+  - The accuracy was improved from 94% to 96%, resulting in a more accurate outcome.
+
