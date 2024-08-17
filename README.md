@@ -10,10 +10,17 @@ A deep learning project by [Zuyyina Hawani](https://www.linkedin.com/in/zuyyina-
 
 # Structure
 Images have been divided into 6 folders
+  - /trypo_train/trypo - 4.652 random trypophobia triggering images
+  - /trypo_train/norm - 8.054 random neutral images
+  - /trypo_valid/trypo - 1.164 random trypophobia triggering images
+  - /trypo_valid/norm - 2.014 random neutral images
+  - /trypophobia/test/trypo - 500 random trypophobia triggering images
+  - /trypophobia/test/norm - 500 random neutral images
 
-/trypo_train/trypo - 4.652 random trypophobia triggering images
-/trypo_train/norm - 8.054 random neutral images
-/trypo_valid/trypo - 1.164
-/trypo_valid/norm - 2.014
-/trypophobia/test/trypo
-/trypophobia/test/norm
+# Device Info
+This study uses Windows 10 Pro operating system
+with an Intel Core i7 CPU processor, 16 GB of memory,
+and NVIDIA GT730 VGA. Code execution is conducted
+in Jupyter Notebook with Python programming language
+version 3.10.13, utilizing TensorFlow library version
+2.15.0 and Keras version 2.15.0
