@@ -18,9 +18,4 @@ Images have been divided into 6 folders
   - /trypophobia/test/norm - 500 random neutral images
 
 # Device Info
-This study uses Windows 10 Pro operating system
-with an Intel Core i7 CPU processor, 16 GB of memory,
-and NVIDIA GT730 VGA. Code execution is conducted
-in Jupyter Notebook with Python programming language
-version 3.10.13, utilizing TensorFlow library version
-2.15.0 and Keras version 2.15.0
+This study uses Windows 10 Pro operating system with an Intel Core i7 CPU processor, 16 GB of memory, and NVIDIA GT730 VGA. Code execution is conducted in [Jupyter Notebook](https://jupyter.org/) with [Python](https://www.python.org/downloads/) programming language version 3.10.13, utilizing [TensorFlow](https://www.tensorflow.org/) library version 2.15.0 and [Keras](https://keras.io/) version 2.15.0
