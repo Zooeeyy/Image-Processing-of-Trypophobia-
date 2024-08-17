@@ -11,5 +11,9 @@ A deep learning project by [Zuyyina Hawani](https://www.linkedin.com/in/zuyyina-
 # Structure
 Images have been divided into 6 folders
 
-/valid/trypo - 500 random trypophobia triggering images
-/valid/norm - 500 random neutral images
+/trypo_train/trypo - 4.652 random trypophobia triggering images
+/trypo_train/norm - 8.054 random neutral images
+/trypo_valid/trypo - 1.164
+/trypo_valid/norm - 2.014
+/trypophobia/test/trypo
+/trypophobia/test/norm
